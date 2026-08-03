@@ -15,6 +15,10 @@ body{
   color: #fff;
 }
 
+.logo{
+  text-align: center;
+}
+
 ul{
   list-style: none;
 }
@@ -44,6 +48,16 @@ a{
 .social-list{
   display: flex;
   gap: 30px;
+}
+
+.new_img1{
+  width: 55px;
+  height: 55px;
+}
+
+.new_img2{
+  width: 75px;
+  height: 75px;
 }
 
 .btn-menu{
