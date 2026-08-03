@@ -123,7 +123,8 @@ a{
 
 .concept-img{
   display: flex;
-  justify-content: start;
+  justify-content: center;
+  align-items: center;
 }
 
 .concept-title{
