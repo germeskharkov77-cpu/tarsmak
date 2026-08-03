@@ -29,7 +29,7 @@ a{
 }
 
 .header{
-  background-color: #070A1B;
+  background-color: #000000;
 }
 
 .container{
@@ -84,7 +84,7 @@ a{
 
 .top{
   background-image: url("../images/top-bg.png");
-  background-color: #070A1B;
+  background-color: #000000;
   min-height: calc(100vh - 100px);
   background-repeat: no-repeat;
   background-size: cover;
@@ -113,7 +113,7 @@ a{
 }
 
 .big-bg{
-  background: linear-gradient(180deg, #070A1B 0%, #2A3170 100%);
+  background: linear-gradient(180deg, #000000 0%, #262626 100%);
   padding-top: 150px;
 }
 
@@ -130,7 +130,7 @@ a{
   font-family: serif;
   font-size: 18px;
   font-weight: 700;
-  color: #F402A2;
+  color: #53f402;
   margin-bottom: 25px;
   text-transform: uppercase;
 }
@@ -158,7 +158,7 @@ a{
   font-family: serif;
   font-size: 18px;
   font-weight: 700;
-  color: #F402A2;
+  color: #53f402;
   margin-bottom: 25px;
   text-transform: uppercase;
 }
@@ -178,10 +178,10 @@ a{
   font-size: 18px;
   font-family: serif;
   font-weight: bold;
-  border: 1px solid #F402A2;
+  border: 1px solid #53f402;
   display: block;
   background-color: transparent;
-  color: #F402A2;
+  color: #53f402;
   cursor: pointer;
   width: 100%;
 }
@@ -210,9 +210,9 @@ a{
   text-transform: uppercase;
   font-size: 18px;
   font-weight: bold;
-  color: #F402A2;
+  color: #53f402;
   padding: 15px;
-  border: 1px solid #F402A2;
+  border: 1px solid #53f402;
   display: block;
   width: 100%;
   text-align: center;
@@ -237,7 +237,7 @@ a{
   fill: #53A1CB
 }
 
-/*.video-link span{
+.video-link span{
   position: relative;
 }
 
@@ -249,7 +249,7 @@ a{
   position: absolute;
   left: -32px;
   top: -1px;
-}*/
+}
 
 .down-bg{
   background-image: url(../images/down-bg.png);
@@ -260,7 +260,7 @@ a{
 }
 
 .footer{
-  background-color: #070A1B;
+  background-color: #000000;
 }
 
 .footer-inner{
