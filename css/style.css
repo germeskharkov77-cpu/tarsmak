@@ -123,8 +123,10 @@ a{
 
 .concept-img{
   display: flex;
-  justify-content: center;
+  justify-content: left;
   align-items: center;
+  width: 1350px;
+  height: 250px;
 }
 
 .concept-title{
@@ -242,11 +244,11 @@ a{
   position: relative;
 }
 
-.video-link span::before{
+/*.video-link span::before{
   content: '';
   width: 19px;
   height: 22px;
-  background-image: url('../images/play-img.svg');
+  background-image: url('../images/play-img_green.svg');
   position: absolute;
   left: -32px;
   top: -1px;
@@ -258,10 +260,10 @@ a{
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-}
+}*/
 
 .footer{
-  background-color: #000000;
+  background-color: #262626;
 }
 
 .footer-inner{
