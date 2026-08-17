@@ -173,6 +173,8 @@ a{
 
 .premier-imgleft{
   margin-bottom: 25px;
+  height: 400px;
+  width: 570px;
 }
 
 .premier-btn{
@@ -198,6 +200,7 @@ a{
 
 .premier-imgright{
   margin-bottom: 20px;
+  height: 664px;
 }
 
 .video{
